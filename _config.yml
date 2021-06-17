@@ -94,9 +94,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kollabo"
+  name             : "K-MOOC 학습 동아리"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "K-MOOC 학습 동아리 - \n#Kyungeun #Hayun #Nankyung"
+  bio              : "#Kyungeun #Hayun #Nankyung"
   location         : "Soongsil Univ."
   email            :
   links:
