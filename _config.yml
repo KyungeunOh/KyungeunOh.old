@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "dirt" # "default", "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Blockchain of collabo"
+title                    : "Blockchain of Kollabo"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Collabo"
+name                     : "Kollabo"
 description              : "Review and posting about K-MOOC blockchain lecture."
 url                      : "https://kyungeunoh.github.io"
 baseurl                  : ""
@@ -94,10 +94,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Kollabo"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "K-MOOC 학습 동아리 - #Kyungeun #Hayun #Nankyung"
+  location         : "Soongsil Univ."
   email            :
   links:
     - label: "Email"
