@@ -26,11 +26,12 @@ categories: Blockchain
 <center><img width="294" alt="first_one" src="https://user-images.githubusercontent.com/47470474/123049140-34905d00-d43a-11eb-8839-8a482dc85f8e.png"></center>
 <center>![first_two](https://user-images.githubusercontent.com/47470474/123049169-3c500180-d43a-11eb-80f2-900b954b0321.jpg)</center>
 
+
 [금융기관이 존재하지 않을 때 발생하는 문제]
 1. 돈을 암호화폐로 교환해줄 발권기관이 없어짐.
 2. 중복사용을 감시하는 역할을 할 기관이 사라짐.
 
-# 블록체인(분산장부) 기술로 문제 해결
+#블록체인(분산장부) 기술로 문제 해결
 : 합의 기능(투표 기능)이 내장된 분산 장부 -> 직접 민주주의 가능
 : 개별 사용자들 각각의 pc에 장부가 있음.
 
