@@ -22,7 +22,7 @@ categories: Blockchain
 [암호화폐]
 : Untraceable payment 추적 불가능한 결제 시스템
 
-#최초의 1982년도 암호화폐와 최초의 탈중앙화된 2008년도 비트코인의 차이
+-최초의 1982년도 암호화폐와 최초의 탈중앙화된 2008년도 비트코인의 차이
 <center><img width="70%" height="30%" alt="first_one" src="https://user-images.githubusercontent.com/47470474/123049140-34905d00-d43a-11eb-8839-8a482dc85f8e.png"></center>
 <center><img width="70%" height="30%" alt="first_two" src="https://user-images.githubusercontent.com/47470474/123049169-3c500180-d43a-11eb-80f2-900b954b0321.jpg"></center>
 
@@ -36,11 +36,12 @@ categories: Blockchain
 : 개별 사용자들 각각의 pc에 장부가 있음.
 
 [블록체인]
-1. 각자가 관찰한 10분 간의 모든 거래내역을 장부(일명 Block)에 기록
-2. 회람
-3. 서로 다른 장부가 존재할 경우 투표
-4. 선출된 장부를 각자 보관 중이던 이전 장부에 연결해(일명 Chain) 보관
-* 3번과 4번은 동시에 발생
+: 1.각자가 관찰한 10분 간의 모든 거래내역을 장부(일명 Block)에 기록
+: 2.회람
+: 3.서로 다른 장부가 존재할 경우 투표
+: 4.선출된 장부를 각자 보관 중이던 이전 장부에 연결해(일명 Chain) 보관
+
+- 3번과 4번은 동시에 발생
 : 10분 마다 암호화폐 거래 내역에 관해 데이터의 불일치, 의견의 불일치가 생겼는지 투표함. 
 
 [블록체인 특징]
