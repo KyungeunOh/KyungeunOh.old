@@ -24,6 +24,7 @@ categories: Blockchain
 
 -최초의 1982년도 암호화폐와 최초의 탈중앙화된 2008년도 비트코인의 차이
 <center><img width="70%" height="30%" alt="first_one" src="https://user-images.githubusercontent.com/47470474/123049140-34905d00-d43a-11eb-8839-8a482dc85f8e.png"></center>
+
 <center><img width="70%" height="30%" alt="first_two" src="https://user-images.githubusercontent.com/47470474/123049169-3c500180-d43a-11eb-80f2-900b954b0321.jpg"></center>
 
 
