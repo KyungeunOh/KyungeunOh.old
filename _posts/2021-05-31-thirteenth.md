@@ -21,3 +21,5 @@ categories: Blockchain
 [사이버 보안 분야]
 : 블록체인은 사이버 보안 분야에서 단일장애점(Single Point ofFailure)문제를 해결하는데 활용될 수 있음
 - 프라이버시 및 비밀성을 해칠 수 있는 위험성은 상존
+
+<center><img width="100%" height="100%" alt="first_one" src="https://user-images.githubusercontent.com/47470474/123534370-b4c70300-d757-11eb-8f12-99dba568d05a.png"></center>
