@@ -25,3 +25,6 @@ categories: Blockchain
 : NEO - 중국판 이더리움
 : Cardano - 가장 과학적인 접근 방식으로 개발된 블록체인
 : Monero와 Zcash - 익명성이 극대화 된 암호화폐
+
+
+<center><img width="100%" height="100%" alt="first_one" src="https://user-images.githubusercontent.com/47470474/123534391-df18c080-d757-11eb-81fa-24111e25b548.png"></center>
